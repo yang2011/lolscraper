@@ -1,4 +1,4 @@
-Scraping images from lol wikipedia
+Scraping images from Wikia
 ==================================
 
 To run:
